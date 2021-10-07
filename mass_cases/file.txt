@@ -1,0 +1,13 @@
+# Filen MÅSTE ha encoding UTF-8
+# classification:  Önskad klassificering
+# classification_path: Hela sökvägen till klassificeringen, inklusive klassificeringen. Möjliga värden kan hittas i Ärendekonfiguration
+# organisation: Önskad Org. tillhörighet
+# owner: Sätts som Ägare, Ansvarig och Arbetsgrupp
+# submitter: Avsändare/Mottagare
+[Settings]
+classification=3.18.1 Planlagd tillsyn av grossistmarknader energi
+classification_path=3. Tillsyn och prövning/3.18 Tillsyn grossistmarknader energi/3.18.1 Planlagd tillsyn av grossistmarknader energi
+organisation=Marknadsövervakning och internationella frågor
+owner=u:cato
+submitter=ei
+uri=https://iipax.ei.se/iip
